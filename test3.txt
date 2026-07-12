@@ -1,0 +1,20 @@
+
+
+git remote -v     -> remote repositorty heck
+
+git remote add origin https://github.com/18pa26/expensestraker.git
+
+
+
+git push -u origin master
+
+cd /d D:\Check gittest
+
+git status
+
+git remote -v
+
+
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/18PA26/expensestracker/pull/new/master
+
